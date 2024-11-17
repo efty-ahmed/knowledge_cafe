@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/images/cover1.jpg",
+      "title": "Whispers of the Night",
+      "author": "Luna Evermore",
+      "author_img": "https://example.com/images/author1.jpg",
+      "posted_date": "2024-11-15",
+      "reading_time": 7,
+      "hash_tags": ["fiction", "mystery", "thriller"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/images/cover2.jpg",
+      "title": "Journey Beyond the Stars",
+      "author": "Kai Orion",
+      "author_img": "https://example.com/images/author2.jpg",
+      "posted_date": "2024-11-10",
+      "reading_time": 12,
+      "hash_tags": ["sci-fi", "adventure", "space"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/images/cover3.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Aria Celestine",
+      "author_img": "https://example.com/images/author3.jpg",
+      "posted_date": "2024-11-12",
+      "reading_time": 9,
+      "hash_tags": ["fantasy", "epic", "magic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/images/cover4.jpg",
+      "title": "Shadows in the Fog",
+      "author": "Dante Blackwood",
+      "author_img": "https://example.com/images/author4.jpg",
+      "posted_date": "2024-11-14",
+      "reading_time": 5,
+      "hash_tags": ["horror", "suspense", "mystery"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/cover5.jpg",
+      "title": "The Art of Silence",
+      "author": "Mika Serene",
+      "author_img": "https://example.com/images/author5.jpg",
+      "posted_date": "2024-11-16",
+      "reading_time": 8,
+      "hash_tags": ["philosophy", "life", "mindfulness"]
+    }
+  ]
+  
