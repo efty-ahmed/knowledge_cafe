@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "cover": "https://example.com/images/cover1.jpg",
+      "cover": "https://ibb.co.com/3dCcPQw",
       "title": "Whispers of the Night",
       "author": "Luna Evermore",
       "author_img": "https://example.com/images/author1.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "cover": "https://example.com/images/cover2.jpg",
+      "cover": "https://ibb.co.com/xhRMc31",
       "title": "Journey Beyond the Stars",
       "author": "Kai Orion",
       "author_img": "https://example.com/images/author2.jpg",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "cover": "https://example.com/images/cover3.jpg",
+      "cover": "https://ibb.co.com/QNXmb74",
       "title": "Echoes of Eternity",
       "author": "Aria Celestine",
       "author_img": "https://example.com/images/author3.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "cover": "https://example.com/images/cover4.jpg",
+      "cover": "https://ibb.co.com/djCkG8d",
       "title": "Shadows in the Fog",
       "author": "Dante Blackwood",
       "author_img": "https://example.com/images/author4.jpg",
